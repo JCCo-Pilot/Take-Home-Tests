@@ -28,7 +28,7 @@ public class CorrectChange {
             pennies++;
             money--;
         }
-        System.out.println("Your change is : "+dollars+" dollar, " +quarters+" quarters, "+dimes+ " dimes, and "+pennies+" cents.");
+        System.out.println("How many cents is due: Your change is "+dollars+" dollar, " +quarters+" quarters, "+dimes+ " dimes, "+nickels+" nickel, and "+pennies+" cents.");
     }
     /*public CorrectChange(int money){
         
